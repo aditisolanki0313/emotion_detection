@@ -30,11 +30,12 @@ The model uses the following algorithms and techniques:
  **Categorical Cross-Entropy Loss**: A loss function used for multi-class classification problems, which measures the performance of the classification model whose output is a probability value between 0 and 1.
 
  ## Dependencies
- - pip install numpy
- - pip install pandas
- - pip install tensorflow
- - pip install keras
- - pip install opencv-python
+ - install python (3.10.9)
+ - install numpy (1.26.4)
+ - install pandas (2.2.2)
+ - install tensorflow (2.16.1)
+ - install keras (3.3.3)
+ - install opencv-python (4.9.0.80)
 
 ## Results
 
